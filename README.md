@@ -11,4 +11,4 @@ visualized the potential correlations among those variables and developed severa
 to predict the expected salary of the new comers.
 
 ## Sales Volume Prediction (times_series_analysis.ipynb)
-- Using the time series model - Seasonal ARIMA (Autoregressive Integrated Moving Average), we visualized 8 years of monthly sales volume data, using the autocorrelation charts (PACF / ACF) to see which lag(s) of the historical data are mostly related to the target volume. We then trained the time series model and used it to preduct the next 24 month sales volume.
+- Using the time series model - Seasonal ARIMA (Autoregressive Integrated Moving Average), we visualized 8 years of monthly sales volume data, using the autocorrelation charts (PACF / ACF) to see which lag(s) of the historical data are mostly related to the target volume. We then trained the time series model and used it to predict the next 24 month of sales volume.
